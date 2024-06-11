@@ -20,7 +20,7 @@ The project followed a structured approach:
 - **Validated Solutions:** Conducted thorough validation of our ideas, ensuring alignment with driver needs and market demands.
 
 ## Files
-1. **Pitch Deck:** [Grubhub Pitchdeck](Grubhub%20Pitchdeck%20_Product%20conference.pdf)
+1. **Pitch Deck:** [Grubhub%20Pitchdeck%20_Product%20conference.pdf](https://github.com/rakshith-7/Portfolio/blob/main/Grubhub-Optimization/Grubhub%20Pitchdeck.pdf)
 2. **Problem Statement:** [Protothon5.0 Problem Statement](Protothon5.0%20Problem%20Statement.pdf)
 3. **Prototype Link:** [Figma Prototype](https://www.figma.com/proto/G3dLfcHEZkaLt9OTmPACjl/Grubhub_Prot?type=design&node-id=22-9&t=HAJ5DTIIqgfGu14R-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=22%3A7&mode=design)
 
