@@ -31,9 +31,9 @@ The project followed a structured approach:
 ## Files
 (Right-click and select "Open link in new tab")
 1. **Pitch Deck:** [MediShare Pitchdeck on Canva](https://www.canva.com/design/DAGCy0nFXcE/wnh2fGur0gdphq9ulYZLyw/view?utm_content=DAGCy0nFXcE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-2. **Product Requirement Document:** [MediShare PRD Report](https://www.canva.com/design/DAFj9fbQ-rg/view)
+2. **Product Requirement Document:** [MediShare PRD Report](https://github.com/rakshith-7/Portfolio/blob/main/MediShare/MediShare%20PRD%20Report.pdf)
 3. **Prototype Link:** [Figma Prototype](https://www.figma.com/proto/kvcL9R6RfBzAN4I8oTFkNC/MediShare?page-id=0%3A1&type=design&node-id=1-461&viewport=222%2C138%2C0.06&t=XHz1If5BNokBu4ml-1&scaling=scale-down) 
-4. **Wireframes:** [MediShare Wireframes](./MediShare/MediShare%20WireFrame.pdf)
+4. **Wireframes:** [MediShare Wireframes](https://github.com/rakshith-7/Portfolio/blob/main/MediShare/MediShare%20WireFrame.pdf)
 
 ## Additional Information
 - **Tools Used:** Figma for prototyping, Balsamiq for wireframes, various online resources for competitive analysis, user persona development, and understanding metrics.
