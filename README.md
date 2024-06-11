@@ -3,7 +3,7 @@
 Welcome to my Product Management Portfolio. Here, you'll find a collection of projects that showcase my skills and experience in product management. Each project includes detailed case studies, methodologies, outcomes, and relevant files.
 
 ## Rakshith Venkanna Patil
-- [Resume](./Rakshit_Patil_Resume.pdf)
+- [Resume](https://docs.google.com/document/d/1KxX9-VuX0SJRRwxDnHhj4tP7VF9g3td9CLIOTpSC3T4/edit?usp=sharing)
 
 ## About Me
 
