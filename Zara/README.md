@@ -20,12 +20,6 @@ The project followed a structured approach:
 - **Sustainable Clothing Line:** Fast production of sustainable clothing using nanotechnology fabric and polymers.
 - **User-Friendly Experience:** Modern and tech-focused user interface for easy adoption.
 
-## Project Details
-- **Academic Term:** Spring 2024
-- **Course:** Digital Product Design and Management
-- **Instructor:** Prof. Andrei Guschin
-- **Team Members:** Rakshith Patil, Sahana Ramprasad, Akilesh Vishnu, Deepti Arun Kumar, Rixith Praveen
-
 ## Outcomes
 - **Comprehensive Pitch Deck:** Detailed presentation of the project vision, market analysis, and key features.
 - **High Fidelity Prototype:** Developed using Figma to demonstrate the proposed solutions.
@@ -39,11 +33,13 @@ The project followed a structured approach:
 
 ## Additional Information
 - **Tools Used:** Figma for prototyping, various online resources for competitive analysis, user persona development, and understanding metrics.
-- **Market Research:** Conducted interviews and surveys to validate the need for such a platform and understand user behavior.
+- **Market Research:** Conducted in person interviews and surveys to validate the need for such a platform and understand user behavior.
 - **Development Roadmap:** Detailed product roadmap outlining key milestones and features for different phases of development.
 
 ## Reflection
-This project provided invaluable insights into the role of a Product Manager, emphasizing the importance of customer advocacy and leading with empathy. The experience highlighted the significance of understanding customer needs, validating product demand, and creating a user-centric solution.
+As an aspiring Product Manager, the Zara - EcoChic project has been a transformative experience. This initiative required us to align our product offerings with a sustainability initiative that serves a diverse customer base. We aimed to introduce features that not only attract but also retain environmentally conscious consumers. Our strategy was evaluated based on its success in attracting and retaining diverse users, the impact of the modifications on the overall user base, and the alignment with Zara’s goals and values.
+
+Through this project, we emphasized customer advocacy, ensuring that the newly added features enhanced Zara's brand image while preparing the company to thrive in a world where adaptability is paramount. Similar to how Uber prioritizes passenger safety with real-time monitoring and secure trip verification, our focus was on making sustainable fashion accessible, reliable, and appealing to our customers. This approach has provided invaluable insights into leading with empathy, understanding customer needs, and validating product demand.
 
 ---
 
