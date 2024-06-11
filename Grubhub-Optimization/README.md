@@ -19,11 +19,10 @@ The project followed a structured approach:
 - **Prototype Development:** Created a functional prototype using Figma to demonstrate the proposed solutions.
 - **Validated Solutions:** Conducted thorough validation of our ideas, ensuring alignment with driver needs and market demands.
 
-## Files
+## Files (Right-click and select "Open link in new tab")
 1. **Pitch Deck Canva:** [Grubhub Pitchdeck](https://www.canva.com/design/DAGARjMwcNA/aKfJp7fF9V0boq31cTsT_g/view?utm_content=DAGARjMwcNA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-1. **Pitch Deck:** [Grubhub Pitchdeck](https://github.com/rakshith-7/Portfolio/blob/main/Grubhub-Optimization/Grubhub%20Pitchdeck.pdf)
 2. **Problem Statement:** [Protothon5.0 Problem Statement](https://github.com/rakshith7/Portfolio/blob/main/GrubhubOptimization/Protothon5.0%20Problem%20Statement.pdf)
-3. **Prototype Link:** [Figma Prototype](https://www.figma.com/proto/G3dLfcHEZkaLt9OTmPACjl/Grubhub_Prot?page-id=0%3A1&type=design&node-id=22-7&viewport=1921%2C918%2C0.17&t=wpjU75sr62jsvoOn-1&scaling=scale-down) (Right-click and select "Open link in new tab")
+3. **Prototype Link:** [Figma Prototype](https://www.figma.com/proto/G3dLfcHEZkaLt9OTmPACjl/Grubhub_Prot?page-id=0%3A1&type=design&node-id=22-7&viewport=1921%2C918%2C0.17&t=wpjU75sr62jsvoOn-1&scaling=scale-down) 
 
 
 ## Additional Information
