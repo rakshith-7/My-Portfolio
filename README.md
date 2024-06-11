@@ -5,7 +5,7 @@ Welcome to my Product Management Portfolio. Here, you'll find a collection of pr
 ## Projects
 
 1. [Grubhub Optimization Project](./Grubhub-Optimization/README.md)
-2. [Project 2 Title](./Project2/README.md)
+2. [Project 2 Title](./MediShare/README.md)
 3. [Project 3 Title](./Project3/README.md)
 4. [Project 4 Title](./Project4/README.md)
 
