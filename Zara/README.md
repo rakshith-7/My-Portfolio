@@ -43,9 +43,4 @@ Through this project, we emphasized customer advocacy, ensuring that the newly a
 
 ---
 
-### How to Use this Repository
-- **Explore the Project:** Navigate through the files and documents to understand the comprehensive approach taken in this project.
-- **View the Prototype:** Check out the high-fidelity prototype to see the user interface and experience designed for Zara - EcoChic.
-- **Read the Pitch Deck:** The pitch deck provides detailed information on the project's vision, customer segments, market analysis, and key features.
-
 Feel free to explore and reach out if you have any questions or opportunities for collaboration.
