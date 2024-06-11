@@ -22,7 +22,7 @@ The project followed a structured approach:
 ## Files
 1. **Pitch Deck:** [Grubhub Pitchdeck](https://github.com/rakshith-7/Portfolio/blob/main/Grubhub-Optimization/Grubhub%20Pitchdeck.pdf)
 2. **Problem Statement:** [Protothon5.0 Problem Statement](https://github.com/rakshith7/Portfolio/blob/main/GrubhubOptimization/Protothon5.0%20Problem%20Statement.pdf)
-3. **Prototype Link:** [Figma Prototype]([https://www.figma.com/proto/G3dLfcHEZkaLt9OTmPACjl/Grubhub_Prot?type=design&node-id=22-9&t=HAJ5DTIIqgfGu14R-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=22%3A7&mode=design](https://www.figma.com/proto/G3dLfcHEZkaLt9OTmPACjl/Grubhub_Prot?page-id=0%3A1&type=design&node-id=49-63&viewport=1921%2C918%2C0.17&t=wpjU75sr62jsvoOn-1&scaling=scale-down))
+3. **Prototype Link:** [Figma Prototype](https://www.figma.com/proto/G3dLfcHEZkaLt9OTmPACjl/Grubhub_Prot?page-id=0%3A1&type=design&node-id=49-63&viewport=1921%2C918%2C0.17&t=wpjU75sr62jsvoOn-1&scaling=scale-down)
 
 ## Additional Information
 - **Tools Used:** Figma for prototyping, various online resources for competitive analysis, user persona development, and understanding metrics.
