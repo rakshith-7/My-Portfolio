@@ -1,5 +1,4 @@
 ## Rakshith Venkanna Patil
-- [Resume](./Resume/Rakshit_Patil_Resume.pdf)
 
 Welcome to my Portfolio. Here, you'll find a collection of projects that showcase my skills and experience in product management. Each project includes detailed case studies, methodologies, outcomes, and relevant files.
 
