@@ -1,6 +1,6 @@
 ## Rakshith Venkanna Patil
 
-Welcome to my Portfolio. Here, you'll find a collection of projects that showcase my skills and experience in product management. Each project includes detailed case studies, methodologies, outcomes, and relevant files.
+Welcome to my Portfolio. Here, you'll find a collection of projects that showcase my skills and experience in Data Analytics and Product Design. Each project includes detailed case studies, methodologies, outcomes, and relevant files.
 
 
 
@@ -20,15 +20,12 @@ I am a data-driven product management professional with a robust background in t
 - **Software Developer at Avanseus Technologies, Bengaluru, India (Aug 2021 - June 2023)**
   - Avanseus Technologies is a pioneering cloud-native software company specializing in AI-driven predictive maintenance solutions. 
   - The Cognitive Assistant for Networks (CAN) solution by Avanseus helps telecom and IIoT network ecosystems by providing predictive insights into network faults and performance, enabling automated and agile operations across legacy and 5G networks.
-  - During my tenure, I was responsible for:
-    - Developing and maintaing features such as IDE, workflows, for the CAN product.
-    - Developing and deploying a RedHat Ansible-based workflow automation tool to enhance operational efficiency and reduce manual intervention.
 
 ### Education
 
 - **Northeastern University, Boston, MA**
   - Master’s in Engineering Management (GPA: 3.96/4.0)
-  - Coursework: Digital Product Design and Management, Probability and Statistics, Operations Research, Project Management
+  - Coursework: Digital Product Design and Management, Probability and Statistics, Operations Research, Project Management, Data Management and Database Design
   - Sept 2023 - May 2025
 
 - **JSS Academy of Technical Education, Bengaluru, India**
@@ -42,7 +39,7 @@ I am a data-driven product management professional with a robust background in t
 ### Skills
 
 - **Tech Stack:** JavaScript, Figma, Balsamiq, HTML, CSS, React JS, InVision, Git
-- **Data Visualization:** R, SQL, Tableau, Power BI, MySQL, Google Analytics, Microsoft Excel
+- **Data Visualization:** R, SQL, Tableau, Power BI, MySQL, Google Analytics, Microsoft Excel, Snowflake, DBT, ETL , Python
 - **Project Management:** JIRA, Gantt Charts, Notion, Smartsheet, Git
 
 ### Projects
@@ -61,7 +58,7 @@ I am a data-driven product management professional with a robust background in t
 
 ## Reflection
 
-Throughout my journey, I have learned the importance of understanding customer needs, validating product demand, and creating solutions that not only meet but exceed user expectations. Each project and experience has contributed to my growth as a product manager, and I look forward to leveraging these skills in future opportunities.
+Throughout my journey, I have learned the importance of understanding customer needs, validating product demand, and creating solutions based on real and relevant data that not only meet but exceed user expectations. Each project and experience has contributed to my growth as professional , and I look forward to leveraging these skills in future opportunities.
 
 Feel free to explore the projects and get in touch if you have any questions or opportunities for collaboration.
 
